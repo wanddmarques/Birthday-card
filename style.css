@@ -242,15 +242,16 @@ body {
 }
 
 .wishes {
-    position: relative;
-    margin: 0;
+    margin-bottom: 40px;
     text-align: center;
+    font-size: 40px;
 }
 
 p {
     text-align: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
+
     
 }
 
